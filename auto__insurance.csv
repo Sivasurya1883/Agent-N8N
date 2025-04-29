@@ -1,0 +1,31 @@
+ID,Customer Name,Vehicle Type,Vehicle Model,Registration Number,Insurance Provider,Policy Number,Coverage Type,Premium Amount,Expiry Date,Contact Number
+101,John Doe,Car,Honda Civic,AB1234XYZ,ABC Insurance,POL-001,Comprehensive,$500/year,2025-12-31,9876543210
+102,Jane Smith,Motorcycle,Yamaha R15,XY9876AB,XYZ Insurance,POL-002,Third-Party,$200/year,2025-08-15,8765432109
+103,David Johnson,Truck,Ford F-150,CD5678EF,DEF Insurance,POL-003,Comprehensive,$800/year,2026-03-20,7654321098
+104,Emily Brown,Car,Toyota Corolla,GH4321IJ,GHI Insurance,POL-004,Third-Party,$450/year,2025-11-10,6543210987
+105,Michael White,SUV,Jeep Wrangler,KL7890MN,JKL Insurance,POL-005,Comprehensive,$750/year,2026-05-05,5432109876
+106,Nancy Allen,Motorcycle,KTM Duke,OF2143VZ,Beta Insurance,POL-106,Comprehensive,$872/year,2026-12-29,9000000106
+107,Laura Hill,Motorcycle,Bajaj Pulsar,GR5102TD,Alpha Insurance,POL-107,Third-Party,$865/year,2026-09-24,9000000107
+108,Laura Hill,Van,Toyota Sienna,FI0766OH,Gamma Insurance,POL-108,Third-Party,$888/year,2026-10-20,9000000108
+109,Alice Johnson,SUV,Nissan Rogue,GS4548QX,Beta Insurance,POL-109,Third-Party,$699/year,2025-07-11,9000000109
+110,Chris Green,SUV,Chevy Tahoe,UO1917FT,Gamma Insurance,POL-110,Comprehensive,$849/year,2025-07-13,9000000110
+111,Chris Green,Motorcycle,Bajaj Pulsar,CP5909TF,Beta Insurance,POL-111,Comprehensive,$884/year,2025-08-14,9000000111
+112,Alice Johnson,Motorcycle,KTM Duke,EP8250CT,Gamma Insurance,POL-112,Comprehensive,$201/year,2026-11-05,9000000112
+113,Alice Johnson,Motorcycle,Suzuki Gixxer,ZI6425PN,Beta Insurance,POL-113,Comprehensive,$912/year,2026-03-06,9000000113
+114,Alice Johnson,Motorcycle,KTM Duke,SG7785LG,Beta Insurance,POL-114,Third-Party,$663/year,2026-09-29,9000000114
+115,Nancy Allen,Motorcycle,Suzuki Gixxer,SX6133VD,Beta Insurance,POL-115,Comprehensive,$918/year,2026-10-12,9000000115
+116,Chris Green,SUV,Ford Explorer,CU3500OT,Gamma Insurance,POL-116,Third-Party,$452/year,2026-04-14,9000000116
+117,Laura Hill,Truck,Ram 1500,VT6043PL,Alpha Insurance,POL-117,Comprehensive,$447/year,2026-03-18,9000000117
+118,Alice Johnson,Van,Honda Odyssey,QP1049CY,Gamma Insurance,POL-118,Comprehensive,$448/year,2026-04-25,9000000118
+119,Nancy Allen,Car,Honda Accord,NR6895WJ,Beta Insurance,POL-119,Comprehensive,$922/year,2025-11-25,9000000119
+120,Nancy Allen,Car,Honda Accord,KT3937SF,Beta Insurance,POL-120,Third-Party,$738/year,2026-02-19,9000000120
+121,Siva,Motorcycle,Suzuki Gixxer,IM6914ET,Alpha Insurance,POL-121,Comprehensive,$766/year,2026-01-02,9000000121
+122,Sasi,Car,Toyota Camry,AD7951RZ,Beta Insurance,POL-122,Comprehensive,$540/year,2025-06-12,9000000122
+123,Rohan,SUV,Chevy Tahoe,XQ9848KJ,Beta Insurance,POL-123,Comprehensive,$272/year,2026-08-06,9000000123
+124,Nandini,Truck,Chevy Silverado,QO0253JR,Beta Insurance,POL-124,Third-Party,$334/year,2025-07-13,9000000124
+125,Sam,Van,Chrysler Pacifica,DL2988AG,Alpha Insurance,POL-125,Comprehensive,$726/year,2026-03-21,9000000125
+126,Alice Johnson,SUV,Chevy Tahoe,DA2871UB,Alpha Insurance,POL-126,Third-Party,$514/year,2025-09-26,9000000126
+127,Alice Johnson,Motorcycle,Suzuki Gixxer,QP3358FP,Gamma Insurance,POL-127,Third-Party,$637/year,2025-09-11,9000000127
+128,Nancy Allen,Van,Toyota Sienna,MU3442TN,Alpha Insurance,POL-128,Third-Party,$671/year,2026-05-12,9000000128
+129,Laura Hill,Van,Honda Odyssey,SO2151EA,Alpha Insurance,POL-129,Comprehensive,$356/year,2026-01-19,9000000129
+130,Chris Green,SUV,Ford Explorer,YD1290XJ,Gamma Insurance,POL-130,Third-Party,$221/year,2026-08-17,9000000130
