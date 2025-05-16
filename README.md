@@ -96,23 +96,7 @@ streamlit run n8n-streamlit.py
 
 ---
 
-## 🔐 Environment Variables
 
-Create a `.env` file for local testing:
-
-```bash
-SUPABASE_URL=your_supabase_project_url
-SUPABASE_KEY=your_supabase_anon_key
-WEBHOOK_URL=https://your-n8n-instance/webhook/invoke-supabase-agent
-```
-
----
-
-## 📸 Sample Screenshots
-
-> _[Include images of Streamlit UI, n8n workflow, and sample chat sessions here]_
-
----
 
 ## 📈 Future Enhancements
 
