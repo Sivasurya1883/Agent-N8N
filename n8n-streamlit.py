@@ -5,8 +5,8 @@ from collections import defaultdict
 from supabase import create_client, Client
 
 # Supabase setup
-SUPABASE_URL = "https://xlhmpksdhxareekzowpr.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhsaG1wa3NkaHhhcmVla3pvd3ByIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MzYxNDAxNywiZXhwIjoyMDU5MTkwMDE3fQ.mCW1Jvy8BGReUC0xat2OU5hTWkJQkM-P3HD7To64jNQ"
+SUPABASE_URL = "your url"
+SUPABASE_KEY = "your key"
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 WEBHOOK_URL = "https://siva1883.app.n8n.cloud/webhook/invoke-supabase-agent"
